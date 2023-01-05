@@ -1,6 +1,5 @@
 # test-aws
-learning aws and for deployment :) 
-
+Using Git for Version Control 
 ## Subheader 
 
 Working on this to learn more AWS + Git stuff...
